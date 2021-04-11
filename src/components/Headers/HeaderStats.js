@@ -25,12 +25,12 @@ export default function HeaderStats() {
               </div>
               <div className="w-full lg:w-6/12 xl:w-3/12 px-4">
                 <CardStats
-                  statSubtitle="TOTAL SETUP BOXES"
+                  statSubtitle="TOTAL ONLINE SETUP BOXES"
                   statTitle="5,21,731"
                   statArrow="up"
                   statPercent="5.12"
                   statPercentColor="text-emerald-500"
-                  statDescripiron="Since last year"
+                  statDescripiron="Since last hour"
                   statIconName="fas fa-chart-pie"
                   statIconColor="bg-orange-500"
                 />
@@ -54,7 +54,7 @@ export default function HeaderStats() {
                   statArrow="up"
                   statPercent="12"
                   statPercentColor="text-emerald-500"
-                  statDescripiron="Since last month"
+                  statDescripiron="Since last week"
                   statIconName="fas fa-percent"
                   statIconColor="bg-lightBlue-500"
                 />
