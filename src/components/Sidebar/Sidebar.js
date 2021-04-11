@@ -19,7 +19,7 @@ export default function Sidebar() {
           <Link
             className="md:block text-left md:pb-2 text-blueGray-600 mr-0 inline-block whitespace-nowrap text-lg uppercase font-bold p-4 px-0"
           >
-            Novarsys Sysadmin
+            Avea Admin
           </Link>
           <div
             className={

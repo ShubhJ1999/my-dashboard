@@ -7,24 +7,24 @@ export default function LineChartA() {
       type: "line",
       data: {
         labels: [
-          "January",
-          "February",
-          "March",
-          "April",
-          "May",
-          "June",
-          "July",
+          "12:00",
+          "13:00",
+          "14:00",
+          "15:00",
+          "16:00",
+          "17:00",
+          "18:00",
         ],
         datasets: [
           {
-            label: new Date().getFullYear() - 1,
+            label: "10 April 2021",
             backgroundColor: "#4c51bf",
             borderColor: "#4c51bf",
             data: [6215, 5478, 6653, 4454, 5876, 6227, 7115],
             fill: false,
           },
           {
-            label: new Date().getFullYear(),
+            label: "11 April 2021",
             fill: false,
             backgroundColor: "#fff",
             borderColor: "#fff",
@@ -116,7 +116,7 @@ export default function LineChartA() {
               <h6 className="uppercase text-blueGray-100 mb-1 text-xs font-semibold">
                 Overview
               </h6>
-              <h2 className="text-white text-xl font-semibold">NEW USERS</h2>
+              <h2 className="text-white text-xl font-semibold">Star Plus Users Count</h2>
             </div>
           </div>
         </div>
