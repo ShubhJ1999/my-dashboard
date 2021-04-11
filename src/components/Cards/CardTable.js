@@ -98,7 +98,7 @@ export default function CardTable({ color }) {
                 </td>                
                 <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4">
                   <div className="flex justify-align-center">
-                  14,23,489</div>
+                  1,423</div>
                 </td>
               </tr>
 
@@ -126,7 +126,7 @@ export default function CardTable({ color }) {
                 </td>                
                 <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4">
                   <div className="flex justify-align-center">
-                  13,45,566</div>
+                  1,345</div>
                 </td>
               </tr>
 
@@ -154,7 +154,7 @@ export default function CardTable({ color }) {
                 </td>                
                 <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4">
                   <div className="flex justify-align-center">
-                  12,78,393</div>
+                  1,278</div>
                 </td>
               </tr>
 
@@ -182,7 +182,7 @@ export default function CardTable({ color }) {
                 </td>                
                 <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4">
                   <div className="flex justify-align-center">
-                  11,45,339</div>
+                  1,145</div>
                 </td>
               </tr>
 
@@ -210,7 +210,7 @@ export default function CardTable({ color }) {
                 </td>                
                 <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4">
                   <div className="flex justify-align-center">
-                  11,34,776</div>
+                  1,134</div>
                 </td>
               </tr>
 
@@ -238,7 +238,7 @@ export default function CardTable({ color }) {
                 </td>                
                 <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4">
                   <div className="flex justify-align-center">
-                  10,99,766</div>
+                  1,099</div>
                 </td>
               </tr>
 
@@ -266,7 +266,7 @@ export default function CardTable({ color }) {
                 </td>                
                 <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4">
                   <div className="flex justify-align-center">
-                  10,78,995</div>
+                  1,078</div>
                 </td>
               </tr>
 
@@ -294,7 +294,7 @@ export default function CardTable({ color }) {
                 </td>                
                 <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4">
                   <div className="flex justify-align-center">
-                  9,78,313</div>
+                  9783</div>
                 </td>
               </tr>
 
@@ -322,7 +322,7 @@ export default function CardTable({ color }) {
                 </td>                
                 <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4">
                   <div className="flex justify-align-center">
-                  8,78,330</div>
+                  830</div>
                 </td>
               </tr>
 
@@ -350,7 +350,7 @@ export default function CardTable({ color }) {
                 </td>                
                 <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4">
                   <div className="flex justify-align-center">
-                  5,33,129</div>
+                  539</div>
                 </td>
               </tr>
 
