@@ -20,7 +20,7 @@ export default function BarChartB() {
             label: "No. of User",
             backgroundColor: "#008000",
             borderColor: "#008000",
-            data: [30204, 73820, 54066, 30544, 17690, 42025, 60163],
+            data: [3020, 7382, 5406, 3054, 1769, 4202, 6016],
             fill: false,
             barThickness: 30,
           },
