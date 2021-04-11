@@ -20,7 +20,7 @@ export default function BarChartA() {
             label: new Date().getFullYear(),
             backgroundColor: "#4c51bf",
             borderColor: "#4c51bf",
-            data: [1230204, 1473820, 854066, 1030544, 719690, 842025, 960163],
+            data: [1230, 1473, 854, 1030, 719, 842, 960],
             fill: false,
             barThickness: 30,
           },
