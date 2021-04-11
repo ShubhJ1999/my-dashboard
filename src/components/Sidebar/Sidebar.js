@@ -95,7 +95,7 @@ export default function Sidebar() {
                         : "text-blueGray-300")
                     }
                   ></i>{" "}
-                  Graphs
+                  Tables
                 </Link>
               </li>
             </ul>

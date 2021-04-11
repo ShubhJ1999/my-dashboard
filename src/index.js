@@ -24,7 +24,7 @@ ReactDOM.render(
       <Route path="/landing" exact component={Landing} />
       <Route path="/profile" exact component={Profile} /> */}
       {/* <Route path="/" exact component={Index} /> */}
-      <Redirect from="*" to="/admin" />
+      <Redirect from="*" to="/admin/dashboard" />
     </Switch>
   </BrowserRouter>,
   document.getElementById("root")

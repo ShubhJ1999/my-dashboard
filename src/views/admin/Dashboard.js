@@ -2,29 +2,25 @@ import React from "react";
 
 // components
 
-import CardLineChart from "components/Cards/CardLineChart.js";
-import CardBarChart from "components/Cards/CardBarChart.js";
-import CardStats from "components/Cards/CardStats.js";
+import LineChartA from "components/Cards/LineChartA.js";
+import BarChartA from "components/Cards/BarChartA.js";
+import BarChartB from "components/Cards/BarChartB.js";
 
 export default function Dashboard() {
   return (
     <>
       <div className="flex flex-wrap">
-        <div className="w-full xl:w-8/12 mb-12 xl:mb-0 px-4">
-          <CardLineChart />
+        <div className="w-full xl:w-6/12 px-4">
+          <BarChartA />
         </div>
-        <div className="w-full xl:w-4/12 px-4">
-          <CardBarChart />
-            <CardStats
-              statSubtitle="BAR GRAPH SUMMARY"
-              statTitle="7,654"
-              statArrow="up"
-              statPercent="10.96"
-              statPercentColor="text-emerald-500"
-              statDescripiron="Since last month"
-              statIconName="far fa-chart-bar"
-              statIconColor="bg-red-500"
-            />
+        <div className="w-full xl:w-6/12 px-4">
+          <BarChartB />
+        </div>
+      </div>
+
+      <div className="flex flex-wrap">
+        <div className="w-full xl:w-12/12 mb-12 xl:mb-0 px-4">
+          <LineChartA />
         </div>
       </div>
     </>
