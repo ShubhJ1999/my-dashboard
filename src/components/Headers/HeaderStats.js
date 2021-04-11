@@ -14,7 +14,7 @@ export default function HeaderStats() {
               <div className="w-full lg:w-6/12 xl:w-3/12 px-4">
                 <CardStats
                   statSubtitle="TOTAL ONLINE DEVICES"
-                  statTitle="4,54,213"
+                  statTitle="6,542"
                   statArrow="up"
                   statPercent="1.96"
                   statPercentColor="text-emerald-500"
@@ -26,7 +26,7 @@ export default function HeaderStats() {
               <div className="w-full lg:w-6/12 xl:w-3/12 px-4">
                 <CardStats
                   statSubtitle="TOTAL ONLINE SETUP BOXES"
-                  statTitle="5,21,731"
+                  statTitle="5,217"
                   statArrow="up"
                   statPercent="5.12"
                   statPercentColor="text-emerald-500"
